@@ -1,0 +1,92 @@
+Instalation Code,Location,Class,Phase,Fraud Probability Rate,Inspection Results
+010001,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+001002,Ilha Azul,Residential,1 Phase,"0,7",Fraud
+000003,Ilha Azul,Residential,1 Phase,"0,5",Fraud
+001004,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+000013,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+000014,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+000015,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+000016,Ilha Azul,Residential,1 Phase,"0,2",No Fraud
+000017,Ilha Azul,Residential,1 Phase,"0,1",No Fraud
+000018,Ilha Azul,Residential,1 Phase,"0,3",No Fraud
+000019,Ilha Azul,Residential,1 Phase,"0,4",No Fraud
+000020,Ilha Azul,Residential,3 Phase,"0,4",No Fraud
+000021,Ilha Azul,Residential,3 Phase,"0,1",Fraud
+000005,Ilha Azul,Residential,3 Phase,"0,2",No Fraud
+000006,Ilha Azul,Residential,3 Phase,"0,6",No Fraud
+000007,Ilha Azul,Residential,3 Phase,"0,4",Fraud
+000008,Ilha Azul,Residential,3 Phase,"0,1",No Fraud
+000009,Ilha Azul,Residential,3 Phase,"0,4",No Fraud
+000010,Ilha Azul,Residential,3 Phase,"0,1",No Fraud
+000011,Ilha Azul,Residential,3 Phase,"0,4",No Fraud
+011011,Ilha Azul,Residential,3 Phase,"0,2",Fraud
+000022,Ilha Azul,Residential,3 Phase,"0,4",No Fraud
+000023,Ilha Azul,Residential,3 Phase,"0,3",No Fraud
+000024,Ilha Azul,Commercial,1 Phase,"0,4",Fraud
+000025,Ilha Azul,Commercial,1 Phase,"0,1",Fraud
+000026,Ilha Azul,Commercial,1 Phase,"0,1",No Fraud
+000027,Ilha Azul,Commercial,1 Phase,"0,2",No Fraud
+000028,Ilha Azul,Commercial,1 Phase,"0,1",No Fraud
+000058,Ilha Azul,Commercial,1 Phase,"0,1",No Fraud
+000059,Ilha Azul,Commercial,1 Phase,"0,3",No Fraud
+000060,Ilha Azul,Commercial,1 Phase,"0,1",No Fraud
+000061,Ilha Azul,Commercial,1 Phase,"0,2",No Fraud
+000062,Ilha Azul,Commercial,1 Phase,"0,2",No Fraud
+000063,Ilha Azul,Commercial,1 Phase,"0,1",No Fraud
+000064,Ilha Azul,Commercial,3 Phase,"0,9",Fraud
+000065,Ilha Azul,Commercial,3 Phase,"0,8",Fraud
+000066,Ilha Azul,Commercial,3 Phase,"0,9",Fraud
+000038,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000039,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000055,Ilha Azul,Commercial,3 Phase,"0,2",No Fraud
+000056,Ilha Azul,Commercial,3 Phase,"0,2",No Fraud
+000057,Ilha Azul,Commercial,3 Phase,"0,2",No Fraud
+000047,Ilha Azul,Commercial,3 Phase,"0,2",Fraud
+000048,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000049,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000050,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000051,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000052,Ilha Azul,Commercial,3 Phase,"0,1",No Fraud
+000053,Vila Velha,Residential,1 Phase,"0,8",No Fraud
+000054,Vila Velha,Residential,1 Phase,"0,9",No Fraud
+000040,Vila Velha,Residential,1 Phase,"0,9",No Fraud
+000041,Vila Velha,Residential,1 Phase,"0,8",No Fraud
+000042,Vila Velha,Residential,1 Phase,"0,8",No Fraud
+000043,Vila Velha,Residential,1 Phase,"0,9",No Fraud
+000044,Vila Velha,Residential,1 Phase,"0,8",No Fraud
+000045,Vila Velha,Residential,1 Phase,"0,7",No Fraud
+000046,Vila Velha,Residential,1 Phase,"0,6",No Fraud
+000077,Vila Velha,Residential,1 Phase,"0,8",No Fraud
+000078,Vila Velha,Residential,1 Phase,"0,5",No Fraud
+000079,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000080,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000081,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000071,Vila Velha,Residential,3 Phase,"0,2",Fraud
+000072,Vila Velha,Residential,3 Phase,"0,3",Fraud
+000073,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000074,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000067,Vila Velha,Residential,3 Phase,"0,5",Fraud
+000068,Vila Velha,Residential,3 Phase,"0,1",Fraud
+000069,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000070,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000075,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000076,Vila Velha,Commercial,1 Phase,"0,2",No Fraud
+000086,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000087,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000088,Vila Velha,Commercial,1 Phase,"0,2",No Fraud
+000089,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000090,Vila Velha,Commercial,1 Phase,"0,1",No Fraud
+000091,Vila Velha,Commercial,3 Phase,"0,9",Fraud
+000082,Vila Velha,Commercial,3 Phase,"0,7",Fraud
+000083,Vila Velha,Commercial,3 Phase,"0,9",Fraud
+000084,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
+000085,Vila Velha,Commercial,3 Phase,"0,2",No Fraud
+000030,Vila Velha,Commercial,3 Phase,"0,2",No Fraud
+000031,Vila Velha,Commercial,3 Phase,"0,3",No Fraud
+000032,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
+000033,Vila Velha,Commercial,3 Phase,"0,5",Fraud
+010034,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
+000035,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
+000036,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
+001037,Vila Velha,Commercial,3 Phase,"0,2",No Fraud
+010038,Vila Velha,Commercial,3 Phase,"0,1",No Fraud
